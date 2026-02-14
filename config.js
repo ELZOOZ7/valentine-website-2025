@@ -22,15 +22,15 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "بتحبني؟",                                    // First interaction
+            yesBtn: "اكيد",                                             // Text for "Yes" button
+            noBtn: "لا",                                               // Text for "No" button
+            secretAnswer: "مش بحبك دا انا بعشقك! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "قد اي؟",                          // For the love meter
+            startText: "قد كدا!",                                   // Text before the percentage
+            nextBtn: "التالي ❤️"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "كل ده حب!!?? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "الي ما لا نهايه! 🚀💝",              // Shows when they go past 1000%
+        normal: "بس كدا ! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "ايوا انا اكتر شخص محظوظ في العالم 🎉💝💖💝💓",
+        message: "دلوقتي تعالي خد هديتك , حضن كبير وبوسه اكبر!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
