@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://drive.google.com/file/d/1LA4W5-1zO22CXwKlEk34vzkXNV8XJQOW/preview", // Music streaming URL
+        musicUrl: "https://ucfa598a4e60fa19f486d1bf8555.dl.dropboxusercontent.com/cd/0/inline/C65qVbFRHIQxwod6IhPElKxiOegijNSPpUAov2E21hIGGLt8rnzzoRch6tVoFlmFpCOEzIVSF6H3KAAfrys936NRwYtjvONN8UrLNppr-K5iVDE3G_Ys3wf1-M1Wh2PuViwWg2A3nF_z7CnX-akZi_y4/file#", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
