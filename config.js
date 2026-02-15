@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://www.dropbox.com/scl/fi/ay02dmz2q6qgwa0oylqqd/05_Awel_Kolhaga.mp3?rlkey=zwa6jp3q4krqa6yl7jw0dnoq2&st=0fakxa2f&raw=1", // Music streaming URL
+        musicUrl: "05_Awel_Kolhaga.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.8                        // Volume level (0.0 to 1.0)
